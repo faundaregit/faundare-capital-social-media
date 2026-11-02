@@ -1,0 +1,27 @@
+node_modules/
+.pnpm-store/
+__pycache__/
+*.pyc
+
+# Never commit credentials or local environment configuration.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Account audits and signed-in browser evidence stay local.
+visible-suspicious-linkedin-followers.csv
+**/ghl-planner-*.png
+**/schedule-approval-proof*.png
+**/scheduled-proof*.png
+**/rescheduled-proof*.png
+
+# Local scratch and platform files.
+.DS_Store
+Thumbs.db
+private/
+scratch/
+

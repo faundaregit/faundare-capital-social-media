@@ -1,0 +1,19 @@
+{
+  "name": "faundare-capital-social-media",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Reproducible social-media design rendering and QC artifacts for Faundare Capital.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "render:ios:concepts": "node \"V2 Build/render-concepts.js\"",
+    "render:ios:final": "node \"V2 Build/render-final.js\"",
+    "verify": "node scripts/verify-outputs.cjs",
+    "test": "pnpm run render:ios:concepts && pnpm run render:ios:final && pnpm run verify"
+  },
+  "dependencies": {
+    "sharp": "0.34.4"
+  }
+}
+

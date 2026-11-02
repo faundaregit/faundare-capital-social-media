@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="450" viewBox="0 0 360 450">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071B35"/><stop offset="1" stop-color="#0D3154"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F0B53D"/><stop offset=".5" stop-color="#FFD982"/><stop offset="1" stop-color="#C98B20"/></linearGradient>
+  </defs>
+  <rect width="360" height="450" fill="url(#bg)"/>
+  <text x="22" y="43" fill="#F7F2E9" font-family="Geist,Arial" font-size="18" font-weight="700">THE DATA-CENTER BOOM</text>
+  <text x="22" y="66" fill="#F7F2E9" font-family="Geist,Arial" font-size="18" font-weight="700">HAS A LOGISTICS FOOTPRINT</text>
+  <g transform="translate(18 105)">
+    <path d="M15 104L88 67l70 35-73 39z" fill="#174D74" stroke="#5A92B8"/>
+    <path d="M88 67v-39l70 35v39z" fill="#113854"/>
+    <path d="M15 104V65l73-37v39z" fill="#286A91"/>
+    <g fill="#9BD3E8"><rect x="35" y="70" width="9" height="18"/><rect x="51" y="62" width="9" height="18"/><rect x="67" y="54" width="9" height="18"/></g>
+    <path d="M158 101C198 100 204 100 231 100" fill="none" stroke="#F2B840" stroke-width="4" stroke-dasharray="8 6"/>
+    <path d="M229 93l14 7-14 7z" fill="#F2B840"/>
+    <g transform="translate(235 48)">
+      <rect x="0" y="31" width="89" height="52" rx="4" fill="#B7822E"/>
+      <path d="M0 31L44 9l45 22" fill="#D8A94D"/>
+      <rect x="9" y="47" width="19" height="28" fill="#263E51"/><rect x="36" y="47" width="19" height="28" fill="#263E51"/><rect x="63" y="47" width="17" height="28" fill="#263E51"/>
+      <rect x="6" y="88" width="76" height="4" rx="2" fill="#71889C"/>
+    </g>
+  </g>
+  <text x="22" y="302" fill="url(#gold)" font-family="Geist,Arial" font-size="38" font-weight="800">≈100,000</text>
+  <text x="22" y="333" fill="#F7F2E9" font-family="Geist,Arial" font-size="24" font-weight="750">TRUCKLOADS / 1 GW</text>
+  <text x="22" y="362" fill="#A9C7D9" font-family="Geist,Arial" font-size="13">Construction demand extends beyond the parcel.</text>
+  <text x="22" y="410" fill="#839DB0" font-family="Geist,Arial" font-size="7.5">Source: S&amp;P Global Market Intelligence, Aug. 7, 2026</text>
+  <text x="338" y="410" text-anchor="end" fill="#F2B840" font-family="Geist,Arial" font-size="9" font-weight="700">FAUNDARE</text>
+</svg>

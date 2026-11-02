@@ -1,0 +1,38 @@
+FAUNDARE SOCIAL V2 — FACTUAL BRIEF
+
+Post ID: SM-2026-11-02-MKT-IOS
+Working title: The overlooked real estate behind the data-center boom
+Pillar: Market Signal
+Prepared: 2026-10-28 America/Chicago
+
+DECISION FOR THE READER
+Data-center construction creates a logistics footprint beyond the data-center parcel. Investors evaluating nearby outdoor storage, staging yards or industrial support space should verify whether demand is active, permitted and durable rather than assume every nearby parcel benefits.
+
+VERIFIED CLAIMS
+1. S&P Global Market Intelligence reported on Aug. 7, 2026 that every gigawatt of U.S. data-center expansion requires approximately 100,000 truckloads. The estimate is attributed to Dean Croke of DAT Freight & Analytics.
+2. The same report says major components including generators, transformers, cooling systems and steel move by truck.
+3. S&P reported approximately 20 GW built in the U.S. since 2023, equivalent to an estimated 2 million truckloads under the stated estimate.
+4. S&P projected U.S. data-center capacity to rise from approximately 24 GW to 110 GW during 2026–2030, equivalent to an estimated 8.6 million truckloads under the stated estimate. This projection is supporting context only and will not appear on the graphic.
+
+CLAIM GUARDRAILS
+- Use “≈100,000 truckloads per 1 GW,” not “truck trips.”
+- Present this as an estimate attributed to DAT through S&P.
+- Do not claim all nearby land, yards or warehouses benefit.
+- Do not claim proximity creates a rent premium or guarantees durable demand.
+- Distinguish temporary construction staging from long-term operating demand.
+- Any investment takeaway must require verification of active projects, zoning, truck access, hardstand capacity, lease duration and tenant credit.
+
+PRIMARY SOURCE
+S&P Global Market Intelligence, “Data centers stretch shrinking US truck capacity,” Aug. 7, 2026:
+https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/08/data-centers-stretch-shrinking-us-truck-capacity
+
+PROVEN SOCIAL REFERENCE
+CRE Daily Instagram post:
+https://www.instagram.com/p/De__qjcDEMM/?img_index=1
+
+REFERENCE USE
+Use the proven topic mechanism and audience interest signal. Do not copy wording, layout, illustration or conclusion.
+
+DEDUPLICATION / HISTORY
+No approved, scheduled or published Faundare post was found on this topic. An unpublished V1 attempt on the broad data-center / outdoor-storage subject was retired because of evidence-package and record-integrity failures. The user explicitly reauthorized a new V2 execution on 2026-10-28. This package uses a new truckload mechanism, a new illustration and a new evidence record.
+

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="450" viewBox="0 0 360 450">
+  <defs><linearGradient id="night" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#06182E"/><stop offset="1" stop-color="#0A2A47"/></linearGradient></defs>
+  <rect width="360" height="450" fill="url(#night)"/>
+  <text x="22" y="43" fill="#F7F2E9" font-family="Geist,Arial" font-size="21" font-weight="800">THE HIDDEN HALF OF</text>
+  <text x="22" y="68" fill="#F7F2E9" font-family="Geist,Arial" font-size="21" font-weight="800">A DATA-CENTER BUILD</text>
+  <g transform="translate(42 94)">
+    <path d="M22 91l103-52 109 55-105 55z" fill="#226184"/>
+    <path d="M125 39V0l109 55v39z" fill="#113752"/>
+    <path d="M22 91V51L125 0v39z" fill="#347A9A"/>
+    <path d="M-5 121h286v7H-5z" fill="#F2B840"/>
+    <path d="M6 128h262l-33 113H39z" fill="#091526" stroke="#23445E"/>
+    <g fill="#D49A32"><rect x="45" y="151" width="44" height="23"/><rect x="103" y="151" width="44" height="23"/><rect x="161" y="151" width="44" height="23"/></g>
+    <path d="M25 195h218" stroke="#6A8DA5" stroke-width="6" stroke-dasharray="13 8"/>
+    <text x="131" y="226" text-anchor="middle" fill="#F2B840" font-family="Geist,Arial" font-size="22" font-weight="800">≈100,000</text>
+    <text x="131" y="244" text-anchor="middle" fill="#F7F2E9" font-family="Geist,Arial" font-size="11" font-weight="700">TRUCKLOADS / 1 GW</text>
+  </g>
+  <text x="22" y="375" fill="#A9C7D9" font-family="Geist,Arial" font-size="12">The obvious building is only part of the footprint.</text>
+  <text x="22" y="410" fill="#839DB0" font-family="Geist,Arial" font-size="7.5">Source: S&amp;P Global Market Intelligence, Aug. 7, 2026</text>
+  <text x="338" y="410" text-anchor="end" fill="#F2B840" font-family="Geist,Arial" font-size="9" font-weight="700">FAUNDARE</text>
+</svg>

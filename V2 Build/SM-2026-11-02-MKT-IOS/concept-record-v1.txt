@@ -1,0 +1,31 @@
+FAUNDARE SOCIAL V2 — CONCEPT RECORD
+
+Post ID: SM-2026-11-02-MKT-IOS
+Prepared: 2026-10-28 America/Chicago
+
+CONCEPT A — LOGISTICS FOOTPRINT
+Horizontal cause-and-effect illustration: one data-center build connects to a nearby staging/storage facility. The truckload statistic is the dominant visual proof.
+Strength: clearest three-second comprehension; directly shows the property-level mechanism.
+Risk: could feel simplistic if the illustration lacks dimensional detail.
+
+CONCEPT B — ONE GW, THREE PARCELS
+Overhead parcel diagram showing the data center, staging yard and warehouse as separate but related real-estate uses.
+Strength: strongest land-use logic and portfolio framing.
+Risk: the headline requires more interpretation; weaker emotional impact.
+
+CONCEPT C — CONSTRUCTION ICEBERG
+Cutaway metaphor showing the visible data center above and its hidden logistics inputs below.
+Strength: most metaphorical and potentially shareable.
+Risk: requires a second glance; the hidden-half metaphor is less literal than the source evidence.
+
+SELECTION
+Concept A selected under the user’s authorization to proceed through production without another stop.
+
+SELECTION RATIONALE
+It won on three-second clarity, mechanism fit and factual discipline. It makes the relationship visible without implying that every nearby property benefits. The final version adds depth, road geometry and recognizable freight activity while keeping the statistic dominant.
+
+SELECTED ASSET
+post-v1-1080x1350.png
+Format: 1080 × 1350 PNG
+Logo: approved M2.1A-TW1.3 dark master, hash verified before use.
+

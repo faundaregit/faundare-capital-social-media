@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="450" viewBox="0 0 360 450">
+  <rect width="360" height="450" fill="#F2EEE4"/>
+  <text x="22" y="43" fill="#071B35" font-family="Geist,Arial" font-size="22" font-weight="800">1 GW NEEDS MORE</text>
+  <text x="22" y="68" fill="#071B35" font-family="Geist,Arial" font-size="22" font-weight="800">THAN ONE PARCEL</text>
+  <g transform="translate(20 98)">
+    <rect x="0" y="0" width="190" height="167" rx="10" fill="#0B2B4A"/>
+    <path d="M22 109l69-35 76 39-72 37z" fill="#1E6083"/>
+    <path d="M91 74V38l76 39v36z" fill="#123B58"/>
+    <path d="M22 109V72l69-34v36z" fill="#347B9C"/>
+    <text x="16" y="24" fill="#F7F2E9" font-family="Geist,Arial" font-size="10" font-weight="700">DATA CENTER</text>
+    <rect x="206" y="0" width="113" height="76" rx="10" fill="#E2B253"/>
+    <text x="219" y="22" fill="#071B35" font-family="Geist,Arial" font-size="9" font-weight="800">STAGING YARD</text>
+    <g fill="#73541F"><rect x="221" y="39" width="26" height="15"/><rect x="253" y="39" width="20" height="15"/><rect x="279" y="39" width="25" height="15"/></g>
+    <rect x="206" y="91" width="113" height="76" rx="10" fill="#163D5B"/>
+    <text x="219" y="114" fill="#F7F2E9" font-family="Geist,Arial" font-size="9" font-weight="800">WAREHOUSE</text>
+    <path d="M220 148h84v-24l-42-18-42 18z" fill="#527995"/>
+  </g>
+  <text x="22" y="311" fill="#071B35" font-family="Geist,Arial" font-size="16" font-weight="700">≈100,000 TRUCKLOADS</text>
+  <text x="22" y="335" fill="#99701F" font-family="Geist,Arial" font-size="12" font-weight="700">PER 1 GW OF EXPANSION</text>
+  <text x="22" y="367" fill="#3C5263" font-family="Geist,Arial" font-size="12">The second-order real estate may sit next door.</text>
+  <text x="22" y="410" fill="#6B7A83" font-family="Geist,Arial" font-size="7.5">Source: S&amp;P Global Market Intelligence, Aug. 7, 2026</text>
+  <text x="338" y="410" text-anchor="end" fill="#071B35" font-family="Geist,Arial" font-size="9" font-weight="700">FAUNDARE</text>
+</svg>
